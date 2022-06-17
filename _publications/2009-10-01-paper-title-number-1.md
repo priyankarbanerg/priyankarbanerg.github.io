@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Enhanced Photon Squeezing in Two-Photon Dicke Model"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /files/2203.06720.pdf
+excerpt: 'This paper is about the time evolution of squeezing in the two-photon Dicke model (TPDM). We reported that photon squeezing in the TPDM sustains longer near the unbounded region in the phase diagram.'
+date: 2022-03-13
+venue: 'arXiv:2203.06720'
+paperurl: 'http://priyankarbanerg.github.io/files/paper1.pdf'
+citation: 'Banerjee, Priyankar, Deepti Sharma, Aranya Bhuti Bhattacherjee. (2022). &quot;Enhanced Photon Squeezing in Two-Photon Dicke Model. &quot; <i>arxiv</i>. 2203.06720.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
